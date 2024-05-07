@@ -12,7 +12,7 @@ ikp3db==1.1.4
 isort==4.3.21
 itsdangerous==1.1.0
 jedi==0.11.1
-Jinja2==2.10.1
+Jinja2==3.1.4
 jmespath==0.9.4
 lazy-object-proxy==1.4.1
 MarkupSafe==1.1.1
@@ -36,5 +36,5 @@ urllib3==1.25.3
 virtualenv==16.2.0
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
-Werkzeug==0.15.5
+Werkzeug==3.0.3
 wrapt==1.11.2
